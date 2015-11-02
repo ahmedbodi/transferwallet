@@ -1,0 +1,23 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+    #import <Availability.h>
+
+#endif
+
+#define TRANSFER_TESTNET    0
+
+//#define TX_FEE_0_8_RULES   1
+
+
+
+#if !DEBUG
+#define NSLog(...)
+#endif

@@ -1,0 +1,483 @@
+/* No comment provided by engineer. */
+"%@ is for 'bits'. %@ = 1 bitcoin." = "%1$@ предназначен для 'bits'. %2$@ = 1 bitcoin.";
+
+/* No comment provided by engineer. */
+"%@ is not allowed to access the camera" = "%@ не разрешается доступ к камере";
+
+/* No comment provided by engineer. */
+"%d confirmations" = "%d подтверждения";
+
+/* No comment provided by engineer. */
+"1 confirmation" = "1 подтверждение";
+
+/* No comment provided by engineer. */
+"\"%@\" is not a recovery phrase word" = "«%@» это не слово фразы восстановления";
+
+/* No comment provided by engineer. */
+"\n         total %@ (%@)" = "\nвсего %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"\n%@\n\nif you ever lose your phone, you will need it to recover your wallet" = "%@ \n\nесли вы когда либо потеряете свой телефон, вам это понадобится что бы восстановить ваш кошелек";
+
+/* No comment provided by engineer. */
+"\n%d attempts remaining\n" = "\n%d попыток осталось";
+
+/* No comment provided by engineer. */
+"\n1 attempt remaining\n" = " осталась 1 попытка ";
+
+/* No comment provided by engineer. */
+"\n\n     amount %@ (%@)" = "       сумма %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"\nA device passcode is needed to safeguard your wallet. Go to settings and turn passcode on to continue." = "Пароль устройство необходим для защиты вашего бумажника. Перейдите в настройки и включите код доступа что бы продолжить.";
+
+/* No comment provided by engineer. */
+"\nADDRESS ALREADY USED\n\ntransfer addresses are intended for single use only\n\nre-use reduces privacy for both you and the recipient and can result in loss if the recipient doesn't directly control the address" = " АДРЕС уже используется \n\ntransfer адреса предназначены для одного использования только \n\nповторное использование уменьшает приватность для вас и получателя и может привести к потере, если получатель не контролирует адрес напрямую";
+
+/* No comment provided by engineer. */
+"\nallow camera access in\nSettings->Privacy->Camera->%@" = " разрешить доступ к камере в \nнастройки-> конфиденциальность-> камера->%@";
+
+/* No comment provided by engineer. */
+"\nDO NOT let anyone see your recovery phrase or they can spend your transfer.\n\nNEVER type your recovery phrase into password managers or elsewhere. Other devices may be infected.\n" = " НЕ позволяйте никому видеть вашу фразу восстановления или они могут потратить ваши transfer.  \n\nНикогда не вводите фразу восстановления в менеджеры паролей или других местах. Другие устройства могут быть инфицированы. ";
+
+/* No comment provided by engineer. */
+"\nnetwork fee +%@ (%@)" = "\nсетевой платеж +%1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"\ntry again in %d %@" = "\nпопробуйте еще раз через %1$d %2$@";
+
+/* No comment provided by engineer. */
+"about" = " об этом устройстве";
+
+/* No comment provided by engineer. */
+"always require passcode" = "всегда требуйте пароль";
+
+/* No comment provided by engineer. */
+"amount too small" = "сумма слишком мала";
+
+/* No comment provided by engineer. */
+"bad password, try again" = "плохой пароль, попробуйте еще раз";
+
+/* No comment provided by engineer. */
+"bad payment request" = "плохой платежный запрос";
+
+/* No comment provided by engineer. */
+"bad payment request URL" = "плохой платежный запрос URL";
+
+/* No comment provided by engineer. */
+"bad payment URL" = "плохой платежный URL";
+
+/* No comment provided by engineer. */
+"bad recovery phrase" = "плохая восстановительная фраза";
+
+/* No comment provided by engineer. */
+"bad signature" = "плохая сигнатура";
+
+/* No comment provided by engineer. */
+"Bitcoin address" = "Биткойн адрес";
+
+/* No comment provided by engineer. */
+"Transfer address" = "Transfer адрес";
+
+/* No comment provided by engineer. */
+"Transfer addresses can also be copied to the clipboard. A transfer address always starts with 'X' or 'Y'." = "Transfer адреса также могут быть скопированы в буфер обмена. Transfer адрес всегда начинается с «X» или «Y».";
+
+/* No comment provided by engineer. */
+"transfer network fee" = "сетевая плата transfer";
+
+/* No comment provided by engineer. */
+"transfer payments can't be less than %@" = "transfer-платежи не могут быть меньше чем %@";
+
+/* No comment provided by engineer. */
+"transfer transaction not signed" = "transfer транзакция не подписана";
+
+/* No comment provided by engineer. */
+"transfer transaction outputs can't be less than %@" = "выходы transfer транзакций не могут быть меньше чем %@";
+
+/* No comment provided by engineer. */
+"block #%d of %d" = "блок #%1$d %2$d";
+
+/* No comment provided by engineer. */
+"cancel" = "отменить";
+
+/* No comment provided by engineer. */
+"change" = "изменить";
+
+/* No comment provided by engineer. */
+"change passcode" = "изменить пароль";
+
+/* No comment provided by engineer. */
+"change payment amount?" = "изменить сумму платежа?";
+
+/* No comment provided by engineer. */
+"checking private key balance..." = "проверка баланса частного ключа ...";
+
+/* No comment provided by engineer. */
+"choose passcode for %@" = "выберите пароль для %@";
+
+/* No comment provided by engineer. */
+"clipboard doesn't contain a valid Transfer or Bitcoin address" = "буфер обмена не содержит действительный transfer или bitcoin адрес";
+
+/* No comment provided by engineer. */
+"close app" = "закрыть программу";
+
+/* No comment provided by engineer. */
+"CONFIRM WIPE" = "ПОДТВЕРДИТЕ УДАЛЕНИЕ";
+
+/* No comment provided by engineer. */
+"confirmed in block #%d" = "подтверждено в блоке #%d";
+
+/* No comment provided by engineer. */
+"connect timeout" = "время ожидания подключения";
+
+/* No comment provided by engineer. */
+"copied" = "копирован(а)";
+
+/* No comment provided by engineer. */
+"copy address to clipboard" = "скопировать адрес в буфер обмена";
+
+/* No comment provided by engineer. */
+"copy request to clipboard" = "скопировать запрос в буфер обмена";
+
+/* No comment provided by engineer. */
+"couldn't make payment" = "платеж не сработал";
+
+/* No comment provided by engineer. */
+"couldn't sweep balance" = "не получилось ? баланс";
+
+/* No comment provided by engineer. */
+"couldn't transmit payment to transfer network" = "не получилось передать платеж сети transfer";
+
+/* No comment provided by engineer. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your transfer)." = "УСТРОЙСТВА безопасности ОСЛАБЛЕНН\nЛюбое 'jailbreak' приложение может получить доступ к любому другому брелку  данных приложения (и украсть ваши transfer).";
+
+/* No comment provided by engineer. */
+"DEVICE SECURITY COMPROMISED\nAny 'jailbreak' app can access any other app's keychain data (and steal your transfer). Wipe this wallet immediately and restore on a secure device." = "УСТРОЙСТВА безопасности ОСЛАБЛЕНН\nЛюбое 'jailbreak' приложение может получить доступ к любому другому брелку  данных приложения (и украсть ваши transfer).Немедленно сотрите этот кошелек и восстановите  его на безопасном устройстве.";
+
+/* No comment provided by engineer. */
+"do it later" = "отложить на потом";
+
+/* No comment provided by engineer. */
+"\nDO NOT let anyone see your recovery\nphrase or they can spend your transfer.\n" = " НЕ позволяйте никому видеть ваши фразы восстановления или они могут потратить ваши transfer. ";
+
+/* No comment provided by engineer. */
+"done" = "сделанно";
+
+/* No comment provided by engineer. */
+"double spend" = "двойная затрата";
+
+/* No comment provided by engineer. */
+"email not configured" = "почта не настроена";
+
+/* No comment provided by engineer. */
+"enter old passcode" = "введите старый пароль";
+
+/* No comment provided by engineer. */
+"error signing transfer transaction" = "ошибка подписания transfer транзакций";
+
+/* No comment provided by engineer. */
+"error signing transaction" = "ошибка подписания транзакции";
+
+/* No comment provided by engineer. */
+"from:" = "от:";
+
+/* No comment provided by engineer. */
+"hour" = "час";
+
+/* No comment provided by engineer. */
+"hours" = "часов";
+
+/* No comment provided by engineer. */
+"id:" = "id:";
+
+/* No comment provided by engineer. */
+"ignore" = "игнорировать";
+
+/* No comment provided by engineer. */
+"import private key" = "импортировать закрытый ключ";
+
+/* No comment provided by engineer. */
+"IMPORTANT" = "ВАЖНО";
+
+/* No comment provided by engineer. */
+"insufficient funds" = "недостаточно средств";
+
+/* No comment provided by engineer. */
+"insufficient funds for transfer network fee" = "недостаток средств для transfer сетевой платы";
+
+/* No comment provided by engineer. */
+"INVALID" = "НЕВЕРНО";
+
+/* No comment provided by engineer. */
+"Let others scan this QR code to get your digital cash (TRANSFER) address. Anyone can send transfer to your wallet by transferring them to your address." = "Другие могут сканировать этот QR код чтобы получить ваш transfer адрес. Каждый может отправить transfer на ваш кошелек путем передачи их на ваш адрес.";
+
+/* No comment provided by engineer. */
+"minute" = "минут";
+
+/* No comment provided by engineer. */
+"minutes" = "минуты";
+
+/* No comment provided by engineer. */
+"missing certificate" = "отсутствует сертификат";
+
+/* No comment provided by engineer. */
+"more..." = "больше...";
+
+/* No comment provided by engineer. */
+"moved" = "перемещено";
+
+/* No comment provided by engineer. */
+"\nNEVER type your recovery phrase into\npassword managers or elsewhere.\nOther devices may be infected.\n" = " Никогда не вводите вашу фразу восстановления в менеджеры паролей или других местах. Другие устройства могут быть инфицированы. ";
+
+/* No comment provided by engineer. */
+"new phrase" = "новая фраза";
+
+/* No comment provided by engineer. */
+"next, write down your recovery phrase" = "далее запишите вашу фразу восстановления";
+
+/* No comment provided by engineer. */
+"no peers found" = "узлы не найдены";
+
+/* No comment provided by engineer. */
+"not a transfer QR code" = "не transfer QR код";
+
+/* No comment provided by engineer. */
+"not a valid transfer address" = "не допустимым transfer адрес";
+
+/* No comment provided by engineer. */
+"not a valid private key" = "не действительный приватный ключ ";
+
+/* No comment provided by engineer. */
+"not connected to the transfer network" = "не подключен к сети transfer";
+
+/* No comment provided by engineer. */
+"ok" = "ok";
+
+/* No comment provided by engineer. */
+"passcode" = "кодовое слово";
+
+/* No comment provided by engineer. */
+"passcode for %@" = "кодовое слово для %@";
+
+/* No comment provided by engineer. */
+"password" = "пароль";
+
+/* No comment provided by engineer. */
+"password protected key" = "пароль охраняемый ключ";
+
+/* No comment provided by engineer. */
+"pay" = "оплатить";
+
+/* No comment provided by engineer. */
+"payment address" = "адрес оплаты";
+
+/* No comment provided by engineer. */
+"payment output" = " выход оплаты";
+
+/* No comment provided by engineer. */
+"post-dated" = "чек с будущей датой";
+
+/* No comment provided by engineer. */
+"Receive transfer at this address: %@" = "Получить transfer на этот адрес: %@";
+
+/* No comment provided by engineer. */
+"received" = "полученно";
+
+/* No comment provided by engineer. */
+"received %@ (%@)" = "полученно %1$@ (%2$@)";
+
+/* No comment provided by engineer. */
+"recovery phrase" = "фраза восстановления";
+
+/* No comment provided by engineer. */
+"recovery phrase doesn't match" = "восстановление фраза не соответствует";
+
+/* No comment provided by engineer. */
+"recovery phrase must have %d words" = "восстановление фраза должна иметь %d слов";
+
+/* No comment provided by engineer. */
+"reduce payment amount by\n%@ (%@)?" = "уменьшить сумму платежа на %1$@ (%2$@)?";
+
+/* No comment provided by engineer. */
+"request" = "запрос";
+
+/* No comment provided by engineer. */
+"request an amount" = "запросить сумму";
+
+/* No comment provided by engineer. */
+"request expired" = "срок действия запроса истек";
+
+/* No comment provided by engineer. */
+"requested network \"%@\" instead of \"%@\"" = "запросить сеть «%1$@» вместо «%2$@»";
+
+/* No comment provided by engineer. */
+"rescan" = "повторное сканирование";
+
+/* No comment provided by engineer. */
+"rescan blockchain" = "пересканировать blockchain";
+
+/* No comment provided by engineer. */
+"rescan blockchain if you think you may have missing transactions, or are having trouble sending (rescanning can take several minutes)" = "пересканировать blockchain если вы думаете что могли пропустить транзакцию или возникли проблемы отправки (повторное сканирование может занять несколько минут)";
+
+/* No comment provided by engineer. */
+"reset" = "сброс";
+
+/* No comment provided by engineer. */
+"Scan someone else's QR code to get their transfer address. You can send a payment to anyone with an address." = "Сканируйте QR код ваших друзей чтобы получить их transfer адреса. Вы можете отправить платеж кому угодно имея адрес.";
+
+/* No comment provided by engineer. */
+"Screenshots are visible to other apps and devices. Generate a new recovery phrase and keep it secret." = "Скриншоты видимы другими приложениями и устройствами. Создайте новую фразу восстановления и держите ее в секрете.";
+
+/* No comment provided by engineer. */
+"Screenshots are visible to other apps and devices. Your funds are at risk. Transfer your balance to another wallet." = "Скриншоты видимы другими приложениями и устройствами. Ваши средства находятся под угрозой. Перевести ваш баланс на другой счет.";
+
+/* No comment provided by engineer. */
+"seen by %d of %d peers" = "видели %1$d %2$d сверстников";
+
+/* No comment provided by engineer. */
+"Send %@ (%@) from this private key into your wallet? The transfer network will receive a fee of %@ (%@)." = "Отправить %1$@ (%2$@) из этого закрытого ключа в ваш кошелек? Сети transfer получат оплату %3$@ (%4$@).";
+
+/* No comment provided by engineer. */
+"send address as email" = "отправить адрес в виде электронной почты";
+
+/* No comment provided by engineer. */
+"send address as message" = "отправить адрес в виде сообщения";
+
+/* No comment provided by engineer. */
+"send request as email" = "отправить запрос в виде электронной почте";
+
+/* No comment provided by engineer. */
+"send request as message" = "отправить запросы в виде сообщения";
+
+/* No comment provided by engineer. */
+"sent" = "отправлено";
+
+/* No comment provided by engineer. */
+"sent!" = "отправлено!";
+
+/* No comment provided by engineer. */
+"settings" = "настройки";
+
+/* No comment provided by engineer. */
+"show" = "показать";
+
+/* No comment provided by engineer. */
+"show phrase" = "показать фразу";
+
+/* No comment provided by engineer. */
+"sms not currently available" = "сообщения сейчас недоступны";
+
+/* No comment provided by engineer. */
+"spent address" = "потраченный адрес";
+
+/* No comment provided by engineer. */
+"spent input" = "потраченный ввод";
+
+/* No comment provided by engineer. */
+"status:" = "статус:";
+
+/* No comment provided by engineer. */
+"swept!" = "удалено (not sure what context)";
+
+/* No comment provided by engineer. */
+"syncing..." = "синхронизирую...";
+
+/* No comment provided by engineer. */
+"the app will now close" = "приложение сейчас будет закрыта";
+
+/* No comment provided by engineer. */
+"This is your transfer address. Tap to copy it or send it by email or sms. The address will change each time you receive funds, but old addresses always work." = "Это ваш адрес transfer. Нажмите, чтобы скопировать его или отправить его по электронной почте или sms. Адрес будет меняться каждый раз когда вы получаете средства, но старые адреса всегда работают.";
+
+/* No comment provided by engineer. */
+"This is your transfer balance. Transfer is a currency. The exchange rate changes with the market." = "Это ваш баланс transfer. Transfer является валютой. Валютный курс меняется в соответствие с  рынком.";
+
+/* No comment provided by engineer. */
+"this payment address is already in your wallet" = "этот адрес оплаты уже находится в вашем бумажнике";
+
+/* No comment provided by engineer. */
+"this private key is already in your wallet" = "этот закрытый ключ уже находится в вашем бумажнике";
+
+/* No comment provided by engineer. */
+"this private key is empty" = "этот закрытый ключ пустой";
+
+/* No comment provided by engineer. */
+"to:" = "кому:";
+
+/* No comment provided by engineer. */
+"to: %@" = "кому: %@";
+
+/* No comment provided by engineer. */
+"touch id limit" = "лимит id касания";
+
+/* No comment provided by engineer. */
+"touch id spending limit" = "id касания расходного лимита";
+
+/* No comment provided by engineer. */
+"transaction canceled, network timeout" = "транзакция отменена, время ожидания сети истекло";
+
+/* No comment provided by engineer. */
+"transaction fees would cost more than the funds available on this private key (due to tiny \"dust\" deposits)" = "комиссионные за транзакцию будет стоить больше чем средства имеющиеся на этом приватном ключе (из-за маленьких депозитов)";
+
+/* No comment provided by engineer. */
+"transaction history" = "история транзакций";
+
+/* No comment provided by engineer. */
+"transaction is post-dated" = "транзакция с будущим временем";
+
+/* No comment provided by engineer. */
+"transaction rejected" = "транзакция отклонена";
+
+/* No comment provided by engineer. */
+"turn device passcode on" = "включите код устройства";
+
+/* No comment provided by engineer. */
+"unexpected response from %@" = "неожиданный ответ от %@";
+
+/* No comment provided by engineer. */
+"unknown address" = "неизвестный адрес";
+
+/* No comment provided by engineer. */
+"unrecognized address" = "нераспознанный адрес";
+
+/* No comment provided by engineer. */
+"unsupported or corrupted document" = "неподдерживаемый или поврежденный документ";
+
+/* No comment provided by engineer. */
+"unsupported signature type" = "тип подписи не поддерживается";
+
+/* No comment provided by engineer. */
+"unsupported url" = "неподдерживаемый URL-адрес";
+
+/* No comment provided by engineer. */
+"untrusted certificate" = "ненадежный сертификат";
+
+/* No comment provided by engineer. */
+"unverified" = "неподтвержденный";
+
+/* No comment provided by engineer. */
+"verified, waiting for confirmation" = "проверено, ожидание подтверждения";
+
+/* No comment provided by engineer. */
+"verify passcode" = "проверить код";
+
+/* No comment provided by engineer. */
+"wallet address" = "адрес кошелька";
+
+/* No comment provided by engineer. */
+"wallet disabled" = "кошелек отключен";
+
+/* No comment provided by engineer. */
+"WARNING" = "ПРЕДУПРЕЖДЕНИЕ";
+
+/* No comment provided by engineer. */
+"wipe" = "стереть";
+
+/* No comment provided by engineer. */
+"WRITE DOWN YOUR RECOVERY PHRASE" = "ЗАПИШИТЕ ВАШУ ФРАЗУ ВОССТАНОВЛЕНИЯ";
+
+/* No comment provided by engineer. */
+"you received transfer!" = "вы получили transfer!";
+
+/* No comment provided by engineer. */
+"Your wallet may be out of sync.\nThis can often be fixed by rescanning the blockchain." = "Ваш кошелек может быть несинхронизированным. Это часто может быть исправлено путем повторного сканирования blockchain.";
+
