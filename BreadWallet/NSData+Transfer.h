@@ -53,6 +53,7 @@
 - (NSData *)RMD160;
 - (NSData *)hash160;
 - (NSData *)reverse;
+- (NSData *)x11;
 
 - (NSString *)hexadecimalString;
 + (NSData *)dataFromHexString:(NSString *)string;
