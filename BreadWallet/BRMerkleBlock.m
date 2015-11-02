@@ -27,7 +27,7 @@
 #import "NSMutableData+Bitcoin.h"
 #import "NSData+Transfer.h"
 
-#define MAX_TIME_DRIFT    (2*60*60)     // the furthest in the future a block is allowed to be timestamped
+#define MAX_TIME_DRIFT    (10*60*60)     // the furthest in the future a block is allowed to be timestamped
 #define MAX_PROOF_OF_WORK 0x1e0ffff0u   // highest value for difficulty target (higher values are less difficult)
 
 
@@ -108,7 +108,7 @@
     [d appendUInt32:_timestamp];
     [d appendUInt32:_target];
     [d appendUInt32:_nonce];
-    _blockHash = d;
+    _blockHash = d.x11;
 
     return self;
 }
