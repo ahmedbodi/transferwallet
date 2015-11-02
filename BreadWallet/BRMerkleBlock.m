@@ -28,7 +28,7 @@
 #import "NSData+Transfer.h"
 
 #define MAX_TIME_DRIFT    (10*60*60)     // the furthest in the future a block is allowed to be timestamped
-#define MAX_PROOF_OF_WORK 0x1e0ffff0u   // highest value for difficulty target (higher values are less difficult)
+#define MAX_PROOF_OF_WORK 0x1f0ffff0u   // highest value for difficulty target (higher values are less difficult)
 
 
 // from https://en.bitcoin.it/wiki/Protocol_specification#Merkle_Trees
